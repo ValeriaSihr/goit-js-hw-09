@@ -24,7 +24,7 @@ function handleSubmit(event) {
     localStorage.removeItem(STORAGE_KEY);
     form.reset();
   } else {
-    alert('If you don`t fill the fields, nothing gonna happens:)');
+    alert('If you don`t fill the form, they will come for you :)');
   }
 }
 
