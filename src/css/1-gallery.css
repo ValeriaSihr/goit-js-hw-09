@@ -12,6 +12,10 @@
   list-style: none;
   
 }
+.sl-wrapper {
+   background-color:#2E2F42;
+}
+ 
 
 .gallery-item {
   position: relative;
@@ -40,4 +44,9 @@
 
 .gallery-link:hover {
   cursor: zoom-in;
+}
+
+
+.arrow {
+  color: rebeccapurple;
 }
